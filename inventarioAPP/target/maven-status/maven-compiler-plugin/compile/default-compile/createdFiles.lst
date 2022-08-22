@@ -1,0 +1,7 @@
+com\example\demo\modelo\Producto.class
+com\example\demo\modelo\RepositorioProducto.class
+com\example\demo\controlador\ControladorProducto.class
+com\example\demo\InventarioAppApplication.class
+com\example\demo\vista\FormProductos.class
+com\example\demo\vista\DialogActualizar$1.class
+com\example\demo\vista\DialogActualizar.class
